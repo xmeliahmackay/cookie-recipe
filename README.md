@@ -1,8 +1,8 @@
-#_Cookie Recipe_
+# _Cookie Recipe_
 
-####_This is a cookie recipe, it tells you how to make cookies, 01-14-2020_
+#### _This is a cookie recipe, it tells you how to make cookies, 01-14-2020_
 
-##_**By Meliah MacKay & Dasha Maletis**_
+## _**By Meliah MacKay & Dasha Maletis**_
 
 _This recipe will help you to know how to make chocolate chip cookies. They are the best in the world, and it also includes a link to more great recipies._
 
@@ -16,7 +16,7 @@ _This recipe will help you to know how to make chocolate chip cookies. They are 
 * _click link to find other great recipes_
 
 ## Support and contact details
-This project is made by Meliah and Dasha. If you need help you can reach Meliah at xmeliahmackay@gmail.com and Dasha at daria.maletis@gmail.com.
+_This project is made by Meliah and Dasha. If you need help you can reach Meliah at xmeliahmackay@gmail.com and Dasha at daria.maletis@gmail.com._
 
 ## This is using HTML, it is our first project. 
 
